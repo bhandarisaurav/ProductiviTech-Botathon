@@ -3,7 +3,7 @@ ProductiviTech is a software designed to enhance the productivity of online meet
 
 ## Team Members
 
-Saurav Bhandari
-Saras Karanjit
-Dilasha Shrestha
-Teodor Nicola
+[Saurav Bhandari](https://github.com/saurav529)
+[Saras Karanjit](https://github.com/saraskaranjit)
+[Dilasha Shrestha](https://github.com/dilashas)
+[Teodor Nicola](https://github.com/TeodorNicolaDev)
